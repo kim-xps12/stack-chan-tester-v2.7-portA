@@ -2,6 +2,17 @@
 
 日本語 | [English](README_en.md)
 
+本リポジトリは[mongonta0716](https://github.com/mongonta0716/) さんが公開されている[stack-chan-tester](https://github.com/mongonta0716/stack-chan-tester)を[kim-xps12](https://github.com/kim-xps12)がM5Stack Basic V2.7のPortAに接続する専用に編集したものです．基本的な操作方法はオリジナルに準拠しています．
+
+非常に便利なコードを公開していただいていること，この場をお借りして感謝申し上げます．ありがとうございます！！
+
+
+
+
+---
+以下原文
+---
+
 スタックチャンを作成するときに、PWMサーボの調整及びテストを行うためのアプリケーションです。<br>
 stack-chan test application for pwm servo
 

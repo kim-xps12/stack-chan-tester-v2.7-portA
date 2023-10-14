@@ -2,6 +2,15 @@
 
 [日本語](README.md) | English
 
+This repository is an edited version of [stack-chan-tester](https://github.com/mongonta0716/stack-chan-tester) published by [mongonta0716](https://github.com/mongonta0716/) specifically for connecting to PortA of M5Stack Basic V2.7 by [kim-xps12](https://github.com/kim-xps12). The basic operating method is based on the original.
+
+I would like to take this opportunity to thank you for making this extremely useful code available to the public. thank you so much!!
+
+
+---
+Original text below
+---
+
 stack-chan test application for pwm servo
 
 # Supported kits
